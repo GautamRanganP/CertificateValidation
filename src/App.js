@@ -6,8 +6,8 @@ import ImageToText from './component/ImageToText';
 function App() {
   return (
     <div className="App">
-      {/* <ImageUploader></ImageUploader> */}
-      <ImageToText></ImageToText>
+      <ImageUploader></ImageUploader>
+      {/* <ImageToText></ImageToText> */}
     </div>
   );
 }
